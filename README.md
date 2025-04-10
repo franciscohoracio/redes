@@ -14,7 +14,7 @@ Este repositorio contiene un script de instalación y una topología de ejemplo 
 
 ## 🚀 Instalación
 
-### 1. Clona este repositorio dentro de una VM Ubuntu (20.04 o 22.04)
+### 1. Clona este repositorio dentro de una VM Ubuntu
 ```bash
 git clone https://github.com/usuario/repositorio-mininet-sdn.git
 cd repositorio-mininet-sdn
