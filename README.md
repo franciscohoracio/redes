@@ -16,8 +16,8 @@ Este repositorio contiene un script de instalación y una topología de ejemplo 
 
 ### 1. Clona este repositorio dentro de una VM Ubuntu
 ```bash
-git clone https://github.com/usuario/repositorio-mininet-sdn.git
-cd repositorio-mininet-sdn
+git clone https://github.com/franciscohoracio/redes.git
+cd redes
 ```
 
 ### 2. Ejecuta el script de instalación
