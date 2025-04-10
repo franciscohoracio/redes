@@ -76,4 +76,3 @@ tcp.port == 6633
 ## 🧑‍💻 Autor
 
 Francisco Horacio Ramos González — Universidad Autónoma de Coahuila  
-💼 CTO en Tredicom
