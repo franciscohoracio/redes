@@ -1,4 +1,4 @@
-# 🧠 Entorno de Red Virtual para Mininet + MiniEdit + RYU (Ubuntu)
+# 🧠 Entorno de Red Virtual para Mininet + MiniEdit + RYU 
 
 Este repositorio contiene un script de instalación y una topología de ejemplo para configurar un entorno educativo de redes usando Mininet con interfaz gráfica (MiniEdit), controlador SDN RYU y soporte para Wireshark.
 
