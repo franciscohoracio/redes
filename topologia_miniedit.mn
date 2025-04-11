@@ -1,0 +1,20 @@
+{
+    "hosts": {
+        "h1": {"x": 100, "y": 150},
+        "h2": {"x": 300, "y": 150}
+    },
+    "switches": {
+        "s1": {"x": 200, "y": 300}
+    },
+    "links": [
+        ["h1", "s1"],
+        ["h2", "s1"]
+    ],
+    "controller": {
+        "c0": {"x": 200, "y": 50}
+    },
+    "params": {
+        "autoSetMacs": true,
+        "autoStaticArp": true
+    }
+}
