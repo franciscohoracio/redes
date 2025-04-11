@@ -6,12 +6,9 @@ sudo apt update && sudo apt upgrade -y
 
 echo "📦 Instalando dependencias principales..."
 sudo apt install -y git python3-pip openvswitch-switch mininet   xterm python3-tk wireshark net-tools iproute2 curl
-apt install python3.11-venv
-python3 -m venv .venv
-source .venv/bin/activate
 
 echo "🐍 Instalando RYU controller..."
-pip install ryu
+sudo pip3 install ryu
 
 echo "📁 Clonando Mininet (por si quieres ejemplos o personalizar)..."
 git clone https://github.com/mininet/mininet.git ~/mininet
